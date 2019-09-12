@@ -1,3 +1,7 @@
+### Yelp Restaurants over Google Map using React Contexts and Hooks
+
+Purely functional react app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
